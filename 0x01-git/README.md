@@ -1,1 +1,1 @@
-My readme file.
+How to work with git
